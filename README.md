@@ -22,19 +22,31 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 </p>
 
 ## 🚀 Tecnologias
-	@@ -28,20 +21,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - JavaScript
 - Git e Github
 - Figma
 
+<br>
+
+---
+
 ## 💻 Projeto
 
 O DevLinks é um agregador de links para usar como cartão de visitar online.
 
+---
+
 ## 🔖 Layout
+<br>
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
+<br>
+
+---
 
 ## :memo: Licença
 
